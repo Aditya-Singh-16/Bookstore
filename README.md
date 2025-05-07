@@ -28,7 +28,7 @@
 
 ## 🖼️ Screenshots
 
-> _Add screenshots here if available (UI homepage, book list, cart modal, etc.)_
+> "E:\Bookstore-2\assets\Homepage.png.png"
 
 ---
 
